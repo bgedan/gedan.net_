@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on gedan.net</title>
+    <link>http://www.gedan.net/tags/</link>
+    <description>Recent content in Tags on gedan.net</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>bennet@gedan.net (Bennet Gedan)</managingEditor>
+    <webMaster>bennet@gedan.net (Bennet Gedan)</webMaster>
+    <lastBuildDate>Tue, 07 Mar 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.gedan.net/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bigimg</title>
+      <link>http://www.gedan.net/tags/bigimg/</link>
+      <pubDate>Tue, 07 Mar 2017 00:00:00 +0000</pubDate>
+      <author>bennet@gedan.net (Bennet Gedan)</author>
+      <guid>http://www.gedan.net/tags/bigimg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Code</title>
+      <link>http://www.gedan.net/tags/code/</link>
+      <pubDate>Tue, 08 Mar 2016 00:00:00 +0000</pubDate>
+      <author>bennet@gedan.net (Bennet Gedan)</author>
+      <guid>http://www.gedan.net/tags/code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Example</title>
+      <link>http://www.gedan.net/tags/example/</link>
+      <pubDate>Mon, 20 Mar 2017 00:00:00 +0000</pubDate>
+      <author>bennet@gedan.net (Bennet Gedan)</author>
+      <guid>http://www.gedan.net/tags/example/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Markdown</title>
+      <link>http://www.gedan.net/tags/markdown/</link>
+      <pubDate>Fri, 20 Feb 2015 00:00:00 +0000</pubDate>
+      <author>bennet@gedan.net (Bennet Gedan)</author>
+      <guid>http://www.gedan.net/tags/markdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Math</title>
+      <link>http://www.gedan.net/tags/math/</link>
+      <pubDate>Sun, 05 Mar 2017 00:00:00 +0000</pubDate>
+      <author>bennet@gedan.net (Bennet Gedan)</author>
+      <guid>http://www.gedan.net/tags/math/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Photoswipe</title>
+      <link>http://www.gedan.net/tags/photoswipe/</link>
+      <pubDate>Mon, 20 Mar 2017 00:00:00 +0000</pubDate>
+      <author>bennet@gedan.net (Bennet Gedan)</author>
+      <guid>http://www.gedan.net/tags/photoswipe/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
